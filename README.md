@@ -1,3 +1,7 @@
+Projeto feito por: Guilherme Sampaio Furquim.
+
+Link do vídeo para demo do projeto: https://youtu.be/BhTA-L4vn0o
+
 # 🎨 Galeria de Arte iOS
 
 Um app iOS simples para exibir uma galeria de obras de arte, visualizar detalhes e compartilhar informações. Suporta modo Dark com fundo cinza-escuro e textos brancos.
